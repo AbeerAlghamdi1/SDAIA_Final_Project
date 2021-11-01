@@ -17,8 +17,8 @@ The dataset is provided in .csv format. It contains 12,330 records,and has 18 fe
 
 #### **Feature Engineering:**
 
-1- Converting categorical attributes to ordered factor variables and are numerically encoded.
-2- Normalize numerical variables of the dataset for clustering and scale for classification methods.
+1. Converting categorical attributes to ordered factor variables and are numerically encoded.
+2. Normalize numerical variables of the dataset for clustering and scale for classification methods.
 
 
 ### **Models:**
@@ -27,6 +27,6 @@ Logistic regression, k-nearest neighbors, and random forest classifiers.
 
 ### **Tools:**
 
-1- Numpy and Pandas for data manipulation.
-2- Scikit-learn for modeling.
-3- Matplotlib and Seaborn for plotting.
+1. Numpy and Pandas for data manipulation.
+2. Scikit-learn for modeling.
+3. Matplotlib and Seaborn for plotting.
