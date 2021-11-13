@@ -2,7 +2,7 @@
 Online Shoppers Intention dataset,  [available on Kaggle](https://www.kaggle.com/henrysue/online-shoppers-intention)
 
 ## **Dataset Description:**
-The dataset is provided in .csv format. It contains 12,330 records,and has 18 features. Revenue is the target feature that identifies if a purchase was made or not.
+The dataset is provided in .csv format. It contains 12,330 records,and has 18 features.
 
 
 ## **Features Description:**
