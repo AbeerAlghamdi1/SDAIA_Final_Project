@@ -1,6 +1,6 @@
 # **Online Shoppers Intention Analysis**
 
-The primary purpose of this project is to predict the purchasing intentions of a visitor to this particular store’s website. and to identify the key factors which contribute the most towards predicting a shopper's behavior.
+The primary purpose of this project is to predict the purchasing intentions of a visitor to this particular store’s website. and analyze the key factors that affect shoppers behavior.
 
 
 ### **The MVP notebook summarizes the following:**
