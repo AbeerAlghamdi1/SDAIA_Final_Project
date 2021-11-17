@@ -3,7 +3,7 @@
 
 ### **Abstract:**
 
-The primary purpose of this project is to predict the purchasing intentions of a visitor to this particular store’s website. and analyze the key factors that affect shoppers behavior.
+The goal of this project is to use classification models to analyze the Customer's Intentions based on the transactions, duration made online in a year , And to create a model that can predict the purchasing intentions of customers.
 
 ### **Design:**
 
@@ -11,7 +11,7 @@ This project is one of the T5 Data Science BootCamp requirements. Data obtained 
 
 ### **Data:**
 
-The dataset is provided in .csv format. It contains 12,330 records,and has 18 features. Revenue is the target feature that identifies if a purchase was made or not.
+The dataset obtained from Kaggle website. This data set consists of 18 features belonging to 12,330 shopping sessions.The 'Revenue' attribute is the target feature.There are no missing values.
 
 ### **Algorithms:**
 
@@ -21,9 +21,16 @@ The dataset is provided in .csv format. It contains 12,330 records,and has 18 fe
 2. Normalize numerical variables of the dataset for clustering and scale for classification methods.
 
 
-### **Models:**
+### **Models Used:**
+Logistic Regression.
+KNeighbors Classifier
+Decision Tree 
+Gradient Boosting
+Naive Bayes 
+Random Forest
+**Hyperparameters used:**
+GridSearchCV and RandomizedSearchCV
 
-Logistic regression, k-nearest neighbors, and random forest classifiers.
 
 ### **Tools:**
 
