@@ -32,7 +32,7 @@ Random Forest
 **Hyperparameters used:**
 GridSearchCV and RandomizedSearchCV
 
-**Random Forest Classifier** has accuracy score 91% with and without hyperparameter optimization which is the highest accuracy score over all other models.
+**Random Forest Classifier** has **91%** accuracy score with and without hyperparameter optimization which is the highest accuracy score over all other models.
 -  Accuracy: 0.91  
 -  F1: 0.95 No Revenue, 0.64 Revenue
 -  Precision: 0.92 No Revenue, 0.77 Revenue
@@ -46,5 +46,5 @@ GridSearchCV and RandomizedSearchCV
 3. Matplotlib and Seaborn for plotting.
 
 ### **Communication:**
-The presentation slides is provided [here]().
+The presentation slides is provided [here](https://github.com/AbeerAlghamdi1/SDAIA_Final_Project/tree/main/Presentation).
 
