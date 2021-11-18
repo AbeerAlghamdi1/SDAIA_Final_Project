@@ -12,7 +12,7 @@ This project is one of the T5 Data Science BootCamp requirements. Data obtained 
 
 ### **Data:**
 
-This dataset consists of 18 features belonging to 12,330 shopping sessions.The 'Revenue' attribute is the target feature. The dataset is clean there are no missing values.
+This dataset consists of 18 features belonging to 12,330 shopping sessions.The 'Revenue' attribute is the target feature. The dataset is clean and there are no missing values.
 
 ### **Algorithms:**
 
