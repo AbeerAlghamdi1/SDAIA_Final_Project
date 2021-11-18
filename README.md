@@ -46,5 +46,5 @@ GridSearchCV and RandomizedSearchCV
 3. Matplotlib and Seaborn for plotting.
 
 ### **Communication:**
-The presentation slides is provided [here](https://github.com/AbeerAlghamdi1/SDAIA_Final_Project/tree/main/Presentation).
+The presentation slides are provided [here](https://github.com/AbeerAlghamdi1/SDAIA_Final_Project/tree/main/Presentation).
 
